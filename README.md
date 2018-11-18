@@ -193,8 +193,8 @@ form#login-form {
   color: #175690;
 }
 @media (max-width: 480px){
-  form#login-form {
-    width: 90%;
-    margin: 30px auto;
+form#login-form {
+width: 90%;
+margin: 30px auto;
   }
 }
